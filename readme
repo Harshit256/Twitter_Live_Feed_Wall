@@ -1,0 +1,3 @@
+localhost on MAMP.
+Place these files in htdocs and then run localhost:8888/Twitter_api/
+Place these files in htdocs and then run localhost/Twitter_api/index.php
